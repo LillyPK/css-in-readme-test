@@ -89,6 +89,7 @@
 					color: white;
 					text-align: center;
 					padding: 0 20px;
+					overflow: hidden;
 				}
 				h1 {
 					font-size: 34px;
