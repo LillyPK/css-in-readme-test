@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 500 400" width="320" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 400" width="320" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -89,7 +89,6 @@
 					color: white;
 					text-align: center;
 					padding: 0 20px;
-					overflow: hidden;
 				}
 				h1 {
 					font-size: 34px;
