@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/YOUR_USERNAME/Jiggly_Mouser/blame/main/header.svg">
+	<a href="https://github.com/LillyPK/css-in-readme-test/blob/main/header.svg">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
 		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
