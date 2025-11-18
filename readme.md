@@ -3,7 +3,7 @@
 	<a href="https://github.com/LillyPK/css-in-readme-test/blob/main/header.svg">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
+		  <img src="header-mobile.svg" width="1000" height="400" alt="Click to see the source">
 		</picture>
 	</a>
 	<br>
